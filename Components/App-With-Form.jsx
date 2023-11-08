@@ -25,7 +25,7 @@ const App = () => {
     // Do your registration logic here with formData
     // After registration is complete, you can navigate to another route
     history.push("/");
-  };
+  };   
 
   return (
     <Router>
